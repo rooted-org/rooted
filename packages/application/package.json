@@ -66,7 +66,7 @@
 		"@rooted/components": "workspace:^",
 		"@rooted/development": "workspace:*",
 		"@rooted/tsdown": "workspace:^",
-		"@types/node": "^26.6.5",
+		"@types/node": "^26.6.6",
 		"tsx": "^4.23.15",
 		"typescript": "^6.0.3"
 	}
