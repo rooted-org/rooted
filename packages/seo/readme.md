@@ -1,6 +1,6 @@
 # [`@rooted/seo`](https://www.npmjs.com/package/@rooted/seo)
 
-Build-time SEO for [`@rooted/*`](https://github.com/Marvin-Brouwer/rooted#rooted). Meta tags, Open Graph, canonical links, sitemaps and `robots.txt`, injected into the HTML your adapter writes out.
+Build-time SEO for [`@rooted/*`](https://github.com/rooted-org/rooted#rooted). Meta tags, Open Graph, canonical links, sitemaps and `robots.txt`, injected into the HTML your adapter writes out.
 
 Nothing in this entry point knows about routing, so it works in an app that doesn't use `@rooted/router`. Per-route metadata, sitemap entries built from the route manifest, and `llms.txt` live in `@rooted/seo/router`, which needs the router installed.
 
@@ -27,4 +27,4 @@ configResolved(resolved) {
 
 Plugins find each other by name rather than by importing, so `seoPluginName` is the contract. Use the constant instead of writing the string.
 
-More in the [SEO guide](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/guide/seo.md).
+More in the [SEO guide](https://github.com/rooted-org/rooted/blob/main/docs/guide/seo.md).

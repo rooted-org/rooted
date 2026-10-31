@@ -1,11 +1,11 @@
 # [`@rooted/adapter`](https://www.npmjs.com/package/@rooted/adapter)
 
-Base adapter primitives for the [`@rooted/*`](https://github.com/Marvin-Brouwer/rooted#rooted) framework. This package is for **adapter authors**, not app developers.
+Base adapter primitives for the [`@rooted/*`](https://github.com/rooted-org/rooted#rooted) framework. This package is for **adapter authors**, not app developers.
 
 > [!IMPORTANT]
 > This package is in beta. Breaking changes can still happen between beta releases, so pin the exact version and read the release notes before you update.
 
-If you're deploying an app, install one of the `@rooted-adapters/*` packages instead. See the [adapters guide](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/guide/adapters.md).
+If you're deploying an app, install one of the `@rooted-adapters/*` packages instead. See the [adapters guide](https://github.com/rooted-org/rooted/blob/main/docs/guide/adapters.md).
 
 ```sh
 pnpm add -D @rooted/adapter@beta
@@ -48,4 +48,4 @@ export function myServerAdapter(options?: MyOptions): Plugin[] {
 }
 ```
 
-More in the [adapters guide](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/guide/adapters.md).
+More in the [adapters guide](https://github.com/rooted-org/rooted/blob/main/docs/guide/adapters.md).

@@ -2,7 +2,7 @@
 
 Type-safe wrappers around `localStorage`, `sessionStorage`, and cookies. SSR-safe.
 
-Part of the [`@rooted/*`](https://github.com/Marvin-Brouwer/rooted#rooted) framework, usable on its own.
+Part of the [`@rooted/*`](https://github.com/rooted-org/rooted#rooted) framework, usable on its own.
 
 > [!IMPORTANT]
 > This package is in beta. Breaking changes can still happen between beta releases, so pin the exact version and read the release notes before you update.
@@ -26,4 +26,4 @@ cookieStorage.set({
 
 Cookies default to a `Path` of the app root, so they're readable everywhere in the app rather than only under the page that set them.
 
-More in the [storage guide](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/guide/storage.md).
+More in the [storage guide](https://github.com/rooted-org/rooted/blob/main/docs/guide/storage.md).

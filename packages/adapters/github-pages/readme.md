@@ -1,6 +1,6 @@
 # [`@rooted-adapters/github-pages`](https://www.npmjs.com/package/@rooted-adapters/github-pages)
 
-Deployment adapter for GitHub Pages. Part of the [`@rooted/*`](https://github.com/Marvin-Brouwer/rooted#rooted) framework.
+Deployment adapter for GitHub Pages. Part of the [`@rooted/*`](https://github.com/rooted-org/rooted#rooted) framework.
 
 Writes `.nojekyll` and `404.html` to the output directory so GitHub Pages serves the app correctly for all URLs.
 
@@ -29,4 +29,4 @@ export default rootedManifest({
 })
 ```
 
-More in the [adapters guide](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/guide/adapters.md).
+More in the [adapters guide](https://github.com/rooted-org/rooted/blob/main/docs/guide/adapters.md).

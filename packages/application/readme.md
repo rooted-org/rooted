@@ -1,6 +1,6 @@
 # [`@rooted/application`](https://www.npmjs.com/package/@rooted/application)
 
-Build-time configuration for the [`@rooted/*`](https://github.com/Marvin-Brouwer/rooted#rooted) framework. The `rootedManifest` Vite config wrapper, the PWA preset, and the import cycle detector.
+Build-time configuration for the [`@rooted/*`](https://github.com/rooted-org/rooted#rooted) framework. The `rootedManifest` Vite config wrapper, the PWA preset, and the import cycle detector.
 
 It wires up the SEO plugins from [`@rooted/seo`](https://www.npmjs.com/package/@rooted/seo) and whichever `@rooted-adapters/*` package you install, so most apps configure both through here rather than importing them.
 
@@ -36,9 +36,9 @@ export default rootedManifest({
 })
 ```
 
-A production build also emits a service worker. A new version never takes over a page that's already running: it lands once the app is closed, or when someone asks for it. The [PWA guide](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/guide/pwa.md) covers how, the components in [`@rooted/pwa`](https://www.npmjs.com/package/@rooted/pwa) for showing there's an update, and `workerScripts` for adding your own worker code.
+A production build also emits a service worker. A new version never takes over a page that's already running: it lands once the app is closed, or when someone asks for it. The [PWA guide](https://github.com/rooted-org/rooted/blob/main/docs/guide/pwa.md) covers how, the components in [`@rooted/pwa`](https://www.npmjs.com/package/@rooted/pwa) for showing there's an update, and `workerScripts` for adding your own worker code.
 
-More in the [SEO guide](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/guide/seo.md).
+More in the [SEO guide](https://github.com/rooted-org/rooted/blob/main/docs/guide/seo.md).
 
 ## Bundle size
 

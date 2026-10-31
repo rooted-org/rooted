@@ -94,7 +94,7 @@ Once the package exists on npm, switch to OIDC so we don't need a long-lived sec
    | Field | Value |
    |-------|-------|
    | Publisher | GitHub Actions |
-   | Owner | `Marvin-Brouwer` |
+   | Owner | `rooted-org` |
    | Repository | `rooted` |
    | Workflow | `release.yml` |
    | Environment | leave blank |

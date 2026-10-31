@@ -1,6 +1,6 @@
 # [`@rooted/elements`](https://www.npmjs.com/package/@rooted/elements)
 
-Typed HTML and SVG element factory. Usable on its own, or as the DOM helper layer for the [`@rooted/*`](https://github.com/Marvin-Brouwer/rooted#rooted) framework.
+Typed HTML and SVG element factory. Usable on its own, or as the DOM helper layer for the [`@rooted/*`](https://github.com/rooted-org/rooted#rooted) framework.
 
 > [!IMPORTANT]
 > This package is in beta. Breaking changes can still happen between beta releases, so pin the exact version and read the release notes before you update.
@@ -36,4 +36,4 @@ const card = element('div', {
 
 The `ns` branch is what makes `element('svg', ...)` and the `svg:*` tags work, so don't drop it. Aborting the controller removes every listener registered through the `on` prop, which is how components clean up on unmount.
 
-More in the [elements page](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/advanced/elements.md).
+More in the [elements page](https://github.com/rooted-org/rooted/blob/main/docs/advanced/elements.md).

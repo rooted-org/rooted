@@ -6,10 +6,10 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Marvin-Brouwer/rooted.git",
+		"url": "https://github.com/rooted-org/rooted.git",
 		"directory": "tooling/development"
 	},
-	"homepage": "https://github.com/Marvin-Brouwer/rooted#readme",
+	"homepage": "https://github.com/rooted-org/rooted#readme",
 	"engines": {
 		"node": ">=22.0.0",
 		"pnpm": ">=10.0.0"

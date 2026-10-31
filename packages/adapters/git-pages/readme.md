@@ -1,6 +1,6 @@
 # [`@rooted-adapters/git-pages`](https://www.npmjs.com/package/@rooted-adapters/git-pages)
 
-Base adapter for git-hosted static pages. Part of the [`@rooted/*`](https://github.com/Marvin-Brouwer/rooted#rooted) framework.
+Base adapter for git-hosted static pages. Part of the [`@rooted/*`](https://github.com/rooted-org/rooted#rooted) framework.
 
 Works for any git page host following the [git-pages.org](https://git-pages.org/) standard. Platform-specific adapters (GitHub Pages, GitLab Pages, Codeberg Pages) extend this one.
 
@@ -25,4 +25,4 @@ export default rootedManifest({
 })
 ```
 
-More in the [adapters guide](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/guide/adapters.md).
+More in the [adapters guide](https://github.com/rooted-org/rooted/blob/main/docs/guide/adapters.md).

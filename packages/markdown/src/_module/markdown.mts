@@ -4,8 +4,8 @@
  * so no markdown parser ships to the browser.
  *
  *
- * - [Markdown guide](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/guide/markdown.md)
- * - [Localization guide](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/guide/localization.md)
+ * - [Markdown guide](https://github.com/rooted-org/rooted/blob/main/docs/guide/markdown.md)
+ * - [Localization guide](https://github.com/rooted-org/rooted/blob/main/docs/guide/localization.md)
  *
  * @module
  */

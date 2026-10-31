@@ -21,7 +21,7 @@ export const Doormat = component({
 								children: [
 									'Recipe Book is a demo app built with the ',
 									element('a', {
-										href: 'https://github.com/Marvin-Brouwer/rooted?tab=readme-ov-file#rooted',
+										href: 'https://github.com/rooted-org/rooted?tab=readme-ov-file#rooted',
 										target: '_blank',
 										rel: 'noopener noreferrer',
 										classes: styles.taglineLink,
@@ -62,7 +62,7 @@ export const Doormat = component({
 									element('div', {
 										children: [
 											element('a', {
-												href: 'https://github.com/Marvin-Brouwer/rooted/tree/main/examples/recipe-book#readme',
+												href: 'https://github.com/rooted-org/rooted/tree/main/examples/recipe-book#readme',
 												target: '_blank',
 												rel: 'noopener noreferrer',
 												classes: styles.externalLink,
@@ -111,7 +111,7 @@ export const Doormat = component({
 										classes: styles.frameworkLinks,
 										children: [
 											element('a', {
-												href: 'https://github.com/Marvin-Brouwer/rooted?tab=readme-ov-file#rooted',
+												href: 'https://github.com/rooted-org/rooted?tab=readme-ov-file#rooted',
 												target: '_blank',
 												rel: 'noopener noreferrer',
 												classes: styles.externalLink,
@@ -121,7 +121,7 @@ export const Doormat = component({
 												},
 											}),
 											element('a', {
-												href: 'https://github.com/Marvin-Brouwer/rooted/releases',
+												href: 'https://github.com/rooted-org/rooted/releases',
 												target: '_blank',
 												rel: 'noopener noreferrer',
 												classes: styles.externalLink,
@@ -131,7 +131,7 @@ export const Doormat = component({
 												},
 											}),
 											element('a', {
-												href: 'https://github.com/Marvin-Brouwer/rooted/issues/new',
+												href: 'https://github.com/rooted-org/rooted/issues/new',
 												target: '_blank',
 												rel: 'noopener noreferrer',
 												classes: styles.externalLink,

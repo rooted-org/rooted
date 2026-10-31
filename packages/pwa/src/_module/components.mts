@@ -5,7 +5,7 @@
  * an update banner belongs in your layout, not in a framework's stylesheet.
  *
  *
- * - [PWA guide](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/guide/pwa.md)
+ * - [PWA guide](https://github.com/rooted-org/rooted/blob/main/docs/guide/pwa.md)
  *
  * @module
  */

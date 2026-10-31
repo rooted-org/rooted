@@ -1,6 +1,6 @@
 # [`@rooted-adapters/firebase-hosting`](https://www.npmjs.com/package/@rooted-adapters/firebase-hosting)
 
-Deployment adapter for Firebase Hosting. Part of the [`@rooted/*`](https://github.com/Marvin-Brouwer/rooted#rooted) framework.
+Deployment adapter for Firebase Hosting. Part of the [`@rooted/*`](https://github.com/rooted-org/rooted#rooted) framework.
 
 Writes `firebase.json` to the Vite project root with rewrite rules for dynamic routes and a catch-all pointing at the SPA shell.
 
@@ -25,4 +25,4 @@ export default rootedManifest({
 })
 ```
 
-More in the [adapters guide](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/guide/adapters.md).
+More in the [adapters guide](https://github.com/rooted-org/rooted/blob/main/docs/guide/adapters.md).

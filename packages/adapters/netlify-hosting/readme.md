@@ -1,6 +1,6 @@
 # [`@rooted-adapters/netlify-hosting`](https://www.npmjs.com/package/@rooted-adapters/netlify-hosting)
 
-Deployment adapter for Netlify static hosting. Part of the [`@rooted/*`](https://github.com/Marvin-Brouwer/rooted#rooted) framework.
+Deployment adapter for Netlify static hosting. Part of the [`@rooted/*`](https://github.com/rooted-org/rooted#rooted) framework.
 
 Writes a `_redirects` file to the output directory so Netlify routes unknown paths to the SPA shell.
 
@@ -25,4 +25,4 @@ export default rootedManifest({
 })
 ```
 
-More in the [adapters guide](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/guide/adapters.md).
+More in the [adapters guide](https://github.com/rooted-org/rooted/blob/main/docs/guide/adapters.md).

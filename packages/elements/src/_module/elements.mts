@@ -3,7 +3,7 @@
  * Usable on its own or as the DOM helper layer for the rooted framework.
  *
  *
- * - [Elements](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/advanced/elements.md)
+ * - [Elements](https://github.com/rooted-org/rooted/blob/main/docs/advanced/elements.md)
  *
  * @module
  */

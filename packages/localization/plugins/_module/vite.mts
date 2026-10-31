@@ -4,8 +4,8 @@
  * `localizationDictionaryCheck` reports dictionary entries that are missing or unused.
  *
  *
- * - [Localization guide](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/guide/localization.md)
- * - [SEO guide](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/guide/seo.md)
+ * - [Localization guide](https://github.com/rooted-org/rooted/blob/main/docs/guide/localization.md)
+ * - [SEO guide](https://github.com/rooted-org/rooted/blob/main/docs/guide/seo.md)
  *
  * @module
  */

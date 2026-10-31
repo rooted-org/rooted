@@ -256,7 +256,7 @@ Architectural decisions live in [`docs/adr/`](./docs/adr). Open ideas and sketch
 
 ```sh
 # Clone and install
-git clone https://github.com/Marvin-Brouwer/rooted.git
+git clone https://github.com/rooted-org/rooted.git
 cd rooted
 pnpm install
 

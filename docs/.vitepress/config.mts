@@ -70,7 +70,7 @@ export default defineConfig({
 		],
 
 		socialLinks: [
-			{ icon: 'github', link: 'https://github.com/Marvin-Brouwer/rooted' },
+			{ icon: 'github', link: 'https://github.com/rooted-org/rooted' },
 		],
 	},
 })

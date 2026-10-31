@@ -1,6 +1,6 @@
 # [`@rooted/router`](https://www.npmjs.com/package/@rooted/router)
 
-Typed routing for the [`@rooted/*`](https://github.com/Marvin-Brouwer/rooted#rooted) framework.
+Typed routing for the [`@rooted/*`](https://github.com/rooted-org/rooted#rooted) framework.
 
 > [!IMPORTANT]
 > This package is in beta. Breaking changes can still happen between beta releases, so pin the exact version and read the release notes before you update.
@@ -26,4 +26,4 @@ The Vite plugin collects those files into a generated `_routes.g.mts`. That file
 /// <reference types="@rooted/router/types" />
 ```
 
-More in the [routing guide](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/guide/routing.md).
+More in the [routing guide](https://github.com/rooted-org/rooted/blob/main/docs/guide/routing.md).

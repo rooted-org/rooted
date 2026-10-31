@@ -1,6 +1,6 @@
 # [`@rooted/store`](https://www.npmjs.com/package/@rooted/store)
 
-A small synchronous shared-state container. Not reactive. Usable on its own, or with the [`@rooted/*`](https://github.com/Marvin-Brouwer/rooted#rooted) framework.
+A small synchronous shared-state container. Not reactive. Usable on its own, or with the [`@rooted/*`](https://github.com/rooted-org/rooted#rooted) framework.
 
 > [!IMPORTANT]
 > This package is in beta. Breaking changes can still happen between beta releases, so pin the exact version and read the release notes before you update.
@@ -27,4 +27,4 @@ counter.on('change', ({ detail }) => {
 })
 ```
 
-More in the [state guide](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/guide/state.md).
+More in the [state guide](https://github.com/rooted-org/rooted/blob/main/docs/guide/state.md).

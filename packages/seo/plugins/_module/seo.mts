@@ -5,7 +5,7 @@
  * and `llms.txt`, add `@rooted/seo/router`.
  *
  *
- * - [SEO guide](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/guide/seo.md)
+ * - [SEO guide](https://github.com/rooted-org/rooted/blob/main/docs/guide/seo.md)
  *
  * @module
  */

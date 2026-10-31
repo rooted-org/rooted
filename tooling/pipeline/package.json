@@ -6,10 +6,10 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Marvin-Brouwer/rooted.git",
+		"url": "https://github.com/rooted-org/rooted.git",
 		"directory": "tooling/pipeline"
 	},
-	"homepage": "https://github.com/Marvin-Brouwer/rooted#readme",
+	"homepage": "https://github.com/rooted-org/rooted#readme",
 	"bin": {
 		"rooted-pipeline": "./bin/bin.cjs"
 	},

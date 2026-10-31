@@ -3,7 +3,7 @@
  * Use this when you want to build elements outside of a rooted component.
  *
  *
- * - [Elements](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/advanced/elements.md)
+ * - [Elements](https://github.com/rooted-org/rooted/blob/main/docs/advanced/elements.md)
  *
  * @module
  */

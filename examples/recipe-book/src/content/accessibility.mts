@@ -35,7 +35,7 @@ export const Accessibility = component({
 					children: [
 						'If you encounter an accessibility barrier, please ',
 						element('a', {
-							href: 'https://github.com/Marvin-Brouwer/rooted/issues/new',
+							href: 'https://github.com/rooted-org/rooted/issues/new',
 							target: '_blank',
 							rel: 'noopener noreferrer',
 							textContent: 'open an issue on GitHub',

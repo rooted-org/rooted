@@ -7,8 +7,8 @@
  * Everything that doesn't depend on routing lives in `@rooted/seo` and is wired up for you by `rootedManifest`.
  *
  *
- * - [SEO guide](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/guide/seo.md)
- * - [Routing guide](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/guide/routing.md)
+ * - [SEO guide](https://github.com/rooted-org/rooted/blob/main/docs/guide/seo.md)
+ * - [Routing guide](https://github.com/rooted-org/rooted/blob/main/docs/guide/routing.md)
  *
  * @module
  */

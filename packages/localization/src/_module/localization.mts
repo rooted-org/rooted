@@ -3,8 +3,8 @@
  * put `localization.parameter` in your route patterns, and translate text with the `localization.text` tagged template.
  *
  *
- * - [Localization guide](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/guide/localization.md)
- * - [Routing guide](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/guide/routing.md)
+ * - [Localization guide](https://github.com/rooted-org/rooted/blob/main/docs/guide/localization.md)
+ * - [Routing guide](https://github.com/rooted-org/rooted/blob/main/docs/guide/routing.md)
  *
  * @module
  */

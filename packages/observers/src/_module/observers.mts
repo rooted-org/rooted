@@ -3,7 +3,7 @@
  * the way `on` and `Store.on` already do.
  *
  *
- * - [Observers](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/advanced/observers.md)
+ * - [Observers](https://github.com/rooted-org/rooted/blob/main/docs/advanced/observers.md)
  *
  * @module
  */

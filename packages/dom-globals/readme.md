@@ -1,6 +1,6 @@
 # [`@rooted/dom-globals`](https://www.npmjs.com/package/@rooted/dom-globals)
 
-Build-time plumbing for the [`@rooted/*`](https://github.com/Marvin-Brouwer/rooted#rooted) framework. Not part of the public API.
+Build-time plumbing for the [`@rooted/*`](https://github.com/rooted-org/rooted#rooted) framework. Not part of the public API.
 
 > [!IMPORTANT]
 > This package is in beta. Breaking changes can still happen between beta releases, so pin the exact version and read the release notes before you update.
