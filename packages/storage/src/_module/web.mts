@@ -3,7 +3,7 @@
  * and cookies. Synchronous, SSR-safe, no encryption.
  *
  *
- * - [Storage guide](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/guide/storage.md)
+ * - [Storage guide](https://github.com/rooted-org/rooted/blob/main/docs/guide/storage.md)
  *
  * @module
  */

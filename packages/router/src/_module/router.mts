@@ -3,8 +3,8 @@
  * `Link`, `navigate`, `href`, `gate`, `restoreScrollPosition`, the navigation events, and the option types for the router itself.
  *
  *
- * - [Routing guide](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/guide/routing.md)
- * - [SEO guide](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/guide/seo.md)
+ * - [Routing guide](https://github.com/rooted-org/rooted/blob/main/docs/guide/routing.md)
+ * - [SEO guide](https://github.com/rooted-org/rooted/blob/main/docs/guide/seo.md)
  *
  * @module
  */

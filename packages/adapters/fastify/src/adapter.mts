@@ -28,7 +28,7 @@ export type FastifyAdapterOptions = {
 	 *
 	 * The same files also run during `vite dev` and `vite preview`, on Vite's own port, so you don't need a second process to reach them.
 	 * Dev loads the sources through Vite, preview runs the built `dist/middleware/*.mjs`.
-	 * See the [server middleware guide](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/advanced/server-middleware.md).
+	 * See the [server middleware guide](https://github.com/rooted-org/rooted/blob/main/docs/advanced/server-middleware.md).
 	 *
 	 * @example
 	 * ```ts

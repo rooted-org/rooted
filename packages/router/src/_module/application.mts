@@ -3,7 +3,7 @@
  * `wildcard`) and react to navigation events.
  *
  *
- * - [Routing guide](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/guide/routing.md)
+ * - [Routing guide](https://github.com/rooted-org/rooted/blob/main/docs/guide/routing.md)
  *
  * @module
  */

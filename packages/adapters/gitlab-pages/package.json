@@ -10,11 +10,11 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Marvin-Brouwer/rooted.git",
+		"url": "git+https://github.com/rooted-org/rooted.git",
 		"directory": "packages/adapters/gitlab-pages"
 	},
-	"homepage": "https://github.com/Marvin-Brouwer/rooted#readme",
-	"bugs": "https://github.com/Marvin-Brouwer/rooted/issues",
+	"homepage": "https://github.com/rooted-org/rooted#readme",
+	"bugs": "https://github.com/rooted-org/rooted/issues",
 	"sideEffects": false,
 	"publishConfig": {
 		"registry": "https://registry.npmjs.org/",
@@ -26,8 +26,7 @@
 		"readme.md"
 	],
 	"engines": {
-		"node": ">=22.0.0",
-		"pnpm": ">=10.0.0"
+		"node": ">=22.0.0"
 	},
 	"exports": {
 		".": {

@@ -3,8 +3,8 @@
  * `ComponentContext`, and the supporting types.
  *
  *
- * - [Components guide](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/guide/components.md)
- * - [Internals](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/advanced/internals.md)
+ * - [Components guide](https://github.com/rooted-org/rooted/blob/main/docs/guide/components.md)
+ * - [Internals](https://github.com/rooted-org/rooted/blob/main/docs/advanced/internals.md)
  *
  * @module
  */

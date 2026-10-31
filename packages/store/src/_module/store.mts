@@ -3,7 +3,7 @@
  * Useful when two components need to agree on a piece of state and neither owns the other.
  *
  *
- * - [State guide](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/guide/state.md)
+ * - [State guide](https://github.com/rooted-org/rooted/blob/main/docs/guide/state.md)
  *
  * @module
  */

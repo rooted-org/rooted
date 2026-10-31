@@ -7,7 +7,7 @@ body:
       value: |
         > [!WARNING]
         > **Please do not report security vulnerabilities publicly.**
-        > Use the [private security advisory](https://github.com/Marvin-Brouwer/rooted/security/advisories/new)
+        > Use the [private security advisory](https://github.com/rooted-org/rooted/security/advisories/new)
         > so the issue can be assessed and patched before public disclosure.
 
   - type: input

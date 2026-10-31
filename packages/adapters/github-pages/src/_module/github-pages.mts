@@ -1,7 +1,7 @@
 /**
  * Adapter for GitHub Pages.
  *
- * - [Adapters guide](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/guide/adapters.md)
+ * - [Adapters guide](https://github.com/rooted-org/rooted/blob/main/docs/guide/adapters.md)
  *
  * @module
  */

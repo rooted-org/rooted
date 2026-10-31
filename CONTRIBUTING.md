@@ -35,7 +35,7 @@ Be respectful and constructive. Harassment, discrimination, or dismissive commun
 ### Setup
 
 ```sh
-git clone https://github.com/Marvin-Brouwer/rooted.git
+git clone https://github.com/rooted-org/rooted.git
 cd rooted
 pnpm install
 ```
@@ -284,7 +284,7 @@ You can check them if not applicable.
 
 ## Reporting bugs
 
-Open a [GitHub issue](https://github.com/Marvin-Brouwer/rooted/issues/new) and include:
+Open a [GitHub issue](https://github.com/rooted-org/rooted/issues/new) and include:
 
 - A minimal reproduction (code snippet or link to a StackBlitz/CodeSandbox).
 - Expected vs. actual behaviour.

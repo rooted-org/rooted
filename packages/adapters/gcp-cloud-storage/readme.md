@@ -1,12 +1,12 @@
 # [`@rooted-adapters/gcp-cloud-storage`](https://www.npmjs.com/package/@rooted-adapters/gcp-cloud-storage)
 
-Deployment adapter for Google Cloud Storage static website hosting. Part of the [`@rooted/*`](https://github.com/Marvin-Brouwer/rooted#rooted) framework.
+Deployment adapter for Google Cloud Storage static website hosting. Part of the [`@rooted/*`](https://github.com/rooted-org/rooted#rooted) framework.
 
 > [!IMPORTANT]
-> This package is still in alpha.
+> This package is in beta. Breaking changes can still happen between beta releases, so pin the exact version and read the release notes before you update.
 
 ```sh
-pnpm add -D @rooted-adapters/gcp-cloud-storage
+pnpm add -D @rooted-adapters/gcp-cloud-storage@beta
 ```
 
 ```ts
@@ -23,4 +23,4 @@ export default rootedManifest({
 })
 ```
 
-More in the [adapters guide](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/guide/adapters.md).
+More in the [adapters guide](https://github.com/rooted-org/rooted/blob/main/docs/guide/adapters.md).

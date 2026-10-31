@@ -10,7 +10,7 @@ Only the latest published version of each `@rooted/*` package receives security 
 
 Use the GitHub private security advisory instead:
 
-👉 [Report a vulnerability](https://github.com/Marvin-Brouwer/rooted/security/advisories/new)
+👉 [Report a vulnerability](https://github.com/rooted-org/rooted/security/advisories/new)
 
 Response times are not guaranteed — this project is maintained by a single person in their spare time, so please be patient. If the issue is confirmed, a fix will be worked on and a disclosure date will be coordinated with you before anything is made public.
 

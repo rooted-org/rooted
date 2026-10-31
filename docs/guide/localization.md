@@ -9,7 +9,7 @@
 The locale segment is the only part of the path that changes per language, so `/en-GB/about/` and `/nl-NL/about/` share a slug. [Translated URLs and international SEO](#translated-urls-and-international-seo) covers when that's the shape you want and when it isn't.
 
 ```sh
-pnpm add @rooted/localization
+pnpm add @rooted/localization@beta
 ```
 
 ## Configuring
@@ -361,7 +361,7 @@ It's tempting to assume this matters less now that a lot of traffic arrives thro
 ## Honest limitations (v1)
 
 - `llms.txt` lists every locale variant, so the same page appears once per language.
-- Mixed routes (a locale token plus a typed token or a wildcard) aren't unrolled, so they're not prerendered and not in the sitemap. A typed token has no value set to walk, so there's nothing to enumerate unless the route supplies the values itself. See [#254](https://github.com/Marvin-Brouwer/rooted/issues/254).
+- Mixed routes (a locale token plus a typed token or a wildcard) aren't unrolled, so they're not prerendered and not in the sitemap. A typed token has no value set to walk, so there's nothing to enumerate unless the route supplies the values itself. See [#254](https://github.com/rooted-org/rooted/issues/254).
 - The dictionary check only sees modules the app actually loads, and in dev it doesn't follow `import.meta.glob`. It only recognises `text` reached through an import, a re-export or a destructure. Passing `text` around as a value (as a function argument, or stored on another object) hides those call sites from it. It also doesn't track shadowed names: a local variable that happens to share the instance's name is taken for the instance.
 - `dictionaries` doesn't check that you covered every locale, because it's what defines the locale set in the first place. `branch` does check, since by then the locales are known.
 - `localized` re-renders its whole subtree on a locale change. There's no partial update, so keep the callback cheap or wrap a smaller part of the tree.

@@ -8,7 +8,7 @@ const intro = `
 Recipe Book is a demo application built with the \`@rooted/*\` framework.
 It showcases client-side routing, lazy-loaded components, and responsive image handling.
 
-For more information, see: https://github.com/Marvin-Brouwer/rooted?tab=readme-ov-file#rooted
+For more information, see: https://github.com/rooted-org/rooted?tab=readme-ov-file#rooted
 `.trim()
 
 export const seo: SeoOptions = {

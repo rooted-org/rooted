@@ -3,8 +3,8 @@
  * Spread the result into `router({ ... })`.
  *
  *
- * - [Application model](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/guide/application-model.md)
- * - [Routing guide](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/guide/routing.md)
+ * - [Application model](https://github.com/rooted-org/rooted/blob/main/docs/guide/application-model.md)
+ * - [Routing guide](https://github.com/rooted-org/rooted/blob/main/docs/guide/routing.md)
  *
  * @module
  */

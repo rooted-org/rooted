@@ -1,18 +1,18 @@
 # [`@rooted-adapters/azure-static-webapp`](https://www.npmjs.com/package/@rooted-adapters/azure-static-webapp)
 
-Deployment adapter for Azure Static Web Apps. Part of the [`@rooted/*`](https://github.com/Marvin-Brouwer/rooted#rooted) framework.
+Deployment adapter for Azure Static Web Apps. Part of the [`@rooted/*`](https://github.com/rooted-org/rooted#rooted) framework.
 
 Writes `staticwebapp.config.json` to the output directory.
 
 Azure can't match a `:param` route exactly, so you have to pick how it's wrong with the required `dynamicRoutes` option.
 `'not-found'` answers `404` on real dynamic pages. `'catch-all'` answers `200` on them, and also on paths below them that aren't routes.
-The [adapters guide](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/guide/adapters.md#azure-static-web-apps-pick-one) has the full trade-off.
+The [adapters guide](https://github.com/rooted-org/rooted/blob/main/docs/guide/adapters.md#azure-static-web-apps-pick-one) has the full trade-off.
 
 > [!IMPORTANT]
-> This package is still in alpha.
+> This package is in beta. Breaking changes can still happen between beta releases, so pin the exact version and read the release notes before you update.
 
 ```sh
-pnpm add -D @rooted-adapters/azure-static-webapp
+pnpm add -D @rooted-adapters/azure-static-webapp@beta
 ```
 
 ```ts
@@ -29,4 +29,4 @@ export default rootedManifest({
 })
 ```
 
-More in the [adapters guide](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/guide/adapters.md).
+More in the [adapters guide](https://github.com/rooted-org/rooted/blob/main/docs/guide/adapters.md).

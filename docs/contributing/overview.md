@@ -18,7 +18,7 @@ Be respectful and constructive. Harassment, discrimination, or dismissive commun
 
 ## Reporting bugs
 
-Open a [GitHub issue](https://github.com/Marvin-Brouwer/rooted/issues/new) and include:
+Open a [GitHub issue](https://github.com/rooted-org/rooted/issues/new) and include:
 
 - A minimal reproduction. A code snippet is fine; a small repo or StackBlitz is better.
 - Expected vs. actual behaviour.

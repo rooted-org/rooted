@@ -1,7 +1,7 @@
 /**
  * Base adapter primitives for rooted adapter packages.
  *
- * - [Adapters guide](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/guide/adapters.md)
+ * - [Adapters guide](https://github.com/rooted-org/rooted/blob/main/docs/guide/adapters.md)
  *
  * @module
  */

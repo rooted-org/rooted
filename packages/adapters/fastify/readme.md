@@ -1,16 +1,16 @@
 # [`@rooted-adapters/fastify`](https://www.npmjs.com/package/@rooted-adapters/fastify)
 
-Deployment adapter for server-side hosting with Fastify. Part of the [`@rooted/*`](https://github.com/Marvin-Brouwer/rooted#rooted) framework.
+Deployment adapter for server-side hosting with Fastify. Part of the [`@rooted/*`](https://github.com/rooted-org/rooted#rooted) framework.
 
 Writes `routes.json` and a ready-to-run `server.mjs` to the output directory. Start the server with `node dist/server.mjs`. The `PORT` environment variable controls the port (default: 3000).
 
 Requires `fastify >= 5.0.0` and `@fastify/static >= 8.0.0`.
 
 > [!IMPORTANT]
-> This package is still in alpha.
+> This package is in beta. Breaking changes can still happen between beta releases, so pin the exact version and read the release notes before you update.
 
 ```sh
-pnpm add -D @rooted-adapters/fastify
+pnpm add -D @rooted-adapters/fastify@beta
 ```
 
 ```ts
@@ -52,6 +52,6 @@ Files can be `.mts`, `.ts`, `.mjs`, or `.js` -- TypeScript is transpiled with ro
 
 The same files run during `vite dev` and `vite preview` too, inside Vite's own process and on Vite's own port. No second entry point and no `server.proxy` entry. Anything the framework has no route for falls through to Vite.
 
-Full details in [advanced/server-middleware](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/advanced/server-middleware.md).
+Full details in [advanced/server-middleware](https://github.com/rooted-org/rooted/blob/main/docs/advanced/server-middleware.md).
 
-More in the [adapters guide](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/guide/adapters.md).
+More in the [adapters guide](https://github.com/rooted-org/rooted/blob/main/docs/guide/adapters.md).

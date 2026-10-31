@@ -21,7 +21,7 @@ export const Licenses = component({
 						children: [
 							'The ',
 							element('a', {
-								href: 'https://github.com/Marvin-Brouwer/rooted',
+								href: 'https://github.com/rooted-org/rooted',
 								target: '_blank',
 								rel: 'noopener noreferrer',
 								textContent: 'Rooted framework',
@@ -63,7 +63,7 @@ export const Licenses = component({
 						children: [
 							'The Recipe Book source code is part of the ',
 							element('a', {
-								href: 'https://github.com/Marvin-Brouwer/rooted/tree/main/examples/recipe-book',
+								href: 'https://github.com/rooted-org/rooted/tree/main/examples/recipe-book',
 								target: '_blank',
 								rel: 'noopener noreferrer',
 								textContent: 'Rooted monorepo',

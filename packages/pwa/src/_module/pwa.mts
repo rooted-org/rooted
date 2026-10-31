@@ -7,7 +7,7 @@
  * or for the components in `@rooted/pwa/components` that use them.
  *
  *
- * - [PWA guide](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/guide/pwa.md)
+ * - [PWA guide](https://github.com/rooted-org/rooted/blob/main/docs/guide/pwa.md)
  *
  * @module
  */

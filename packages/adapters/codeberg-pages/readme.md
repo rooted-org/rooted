@@ -1,14 +1,14 @@
 # [`@rooted-adapters/codeberg-pages`](https://www.npmjs.com/package/@rooted-adapters/codeberg-pages)
 
-Deployment adapter for Codeberg Pages. Part of the [`@rooted/*`](https://github.com/Marvin-Brouwer/rooted#rooted) framework.
+Deployment adapter for Codeberg Pages. Part of the [`@rooted/*`](https://github.com/rooted-org/rooted#rooted) framework.
 
 Follows the [git-pages.org](https://git-pages.org/) standard that Codeberg Pages supports.
 
 > [!IMPORTANT]
-> This package is still in alpha.
+> This package is in beta. Breaking changes can still happen between beta releases, so pin the exact version and read the release notes before you update.
 
 ```sh
-pnpm add -D @rooted-adapters/codeberg-pages
+pnpm add -D @rooted-adapters/codeberg-pages@beta
 ```
 
 ```ts
@@ -25,4 +25,4 @@ export default rootedManifest({
 })
 ```
 
-More in the [adapters guide](https://github.com/Marvin-Brouwer/rooted/blob/main/docs/guide/adapters.md).
+More in the [adapters guide](https://github.com/rooted-org/rooted/blob/main/docs/guide/adapters.md).

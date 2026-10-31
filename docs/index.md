@@ -13,7 +13,7 @@ hero:
       link: https://lively-sky-0adfd8510.7.azurestaticapps.net/
     - theme: alt
       text: GitHub
-      link: https://github.com/Marvin-Brouwer/rooted
+      link: https://github.com/rooted-org/rooted
 
 features:
   - icon:

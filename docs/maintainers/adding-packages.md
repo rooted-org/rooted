@@ -94,7 +94,7 @@ Once the package exists on npm, switch to OIDC so we don't need a long-lived sec
    | Field | Value |
    |-------|-------|
    | Publisher | GitHub Actions |
-   | Owner | `Marvin-Brouwer` |
+   | Owner | `rooted-org` |
    | Repository | `rooted` |
    | Workflow | `release.yml` |
    | Environment | leave blank |
@@ -108,7 +108,7 @@ From this point on, the Release workflow publishes the new package via OIDC. No 
 ## 4. Verify
 
 - `https://www.npmjs.com/package/@rooted/<name>` exists with the `alpha` tag.
-- A qualifying commit on `main` (`feat:`, `fix:`, `perf:`, `docs:`) triggers the Release workflow and publishes a new `alpha` pre-release for the package without using the granular token.
+- A qualifying commit on `main` (`feat:`, `fix:`, `perf:`) triggers the Release workflow and publishes a `beta` pre-release for the package without using the granular token.
 
 ## 5. Update the docs
 
