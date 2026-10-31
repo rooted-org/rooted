@@ -67,7 +67,7 @@
 	"dependencies": {
 		"@rooted/elements": "workspace:^",
 		"@rooted/util": "workspace:^",
-		"magic-string": "^1.4.3"
+		"magic-string": "^1.4.5"
 	},
 	"peerDependencies": {
 		"vite": ">=8.0.1"

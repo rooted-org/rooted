@@ -28,7 +28,7 @@
 		"@varlock/vite-integration": "^1.5.4",
 		"gray-matter": "^4.0.3",
 		"html-minifier-terser": "^7.2.0",
-		"magic-string": "^1.4.3",
+		"magic-string": "^1.4.5",
 		"marked": "^18.1.1",
 		"typescript": "^6.0.3",
 		"varlock": "^1.23.0",
