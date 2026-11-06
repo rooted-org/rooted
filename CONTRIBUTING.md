@@ -284,11 +284,13 @@ You can check them if not applicable.
 
 ## Reporting bugs
 
-Open a [GitHub issue](https://github.com/rooted-org/rooted/issues/new) and include:
+Open a [GitHub issue](https://github.com/rooted-org/rooted/issues/new/choose) and include:
 
 - A minimal reproduction (code snippet or link to a StackBlitz/CodeSandbox).
 - Expected vs. actual behaviour.
 - Browser name and version (for runtime bugs).
 - Node version (`node -v`) and pnpm version (`pnpm -v`).
 
-Feature requests are welcome too — describe the use case clearly so the maintainers can evaluate fit and priority.
+Feature requests are welcome too. Describe the use case clearly so the maintainers can evaluate fit and priority. If the idea isn't settled yet, start in [Discussions, Ideas](https://github.com/rooted-org/rooted/discussions/categories/ideas) instead.
+
+Questions go to [Discussions, Q&A](https://github.com/rooted-org/rooted/discussions/categories/q-a), not issues.

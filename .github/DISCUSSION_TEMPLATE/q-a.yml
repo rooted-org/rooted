@@ -1,0 +1,32 @@
+title: '[Q&A] '
+labels: [question]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Rooted is a hobby project with one maintainer, so answers here mostly come from other users. There's no promised response time.
+        If you know the answer to someone else's question, please jump in.
+
+        Before you ask, the [FAQ](https://rooted-org.github.io/rooted/guide/faq) and the [guide](https://rooted-org.github.io/rooted/guide/getting-started) might already cover it.
+        Found a bug with steps to reproduce it? That's an [issue](https://github.com/rooted-org/rooted/issues/new/choose), not a question.
+
+  - type: input
+    id: packages
+    attributes:
+      label: Packages and versions
+      description: Which `@rooted/*` or `@rooted-adapters/*` packages this is about, with exact versions.
+      placeholder: e.g. @rooted/components 1.0.0-beta.3, @rooted/router 1.0.0-beta.2
+
+  - type: textarea
+    id: question
+    attributes:
+      label: What are you trying to do?
+      description: The goal, not just the error. Often there's an easier way to get there.
+    validations:
+      required: true
+
+  - type: textarea
+    id: tried
+    attributes:
+      label: What have you tried?
+      description: Code you wrote, what happened, and what you expected instead. Paste code as text, not screenshots.
