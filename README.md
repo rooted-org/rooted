@@ -252,6 +252,22 @@ The docs are split by audience. Pick the one that matches what you're doing.
 Architectural decisions live in [`docs/adr/`](./docs/adr). Open ideas and sketches live in [`docs/ideas/`](./docs/ideas).
 
 
+## Getting help
+
+Rooted is a hobby project with one maintainer, in open beta on the npm `beta` tag. There's no support contract and no promised response time, so help mostly comes from other users. If you can answer someone else's question, please do.
+
+| What you have | Where it goes |
+|---|---|
+| A "how do I..." question | [Discussions, Q&A](https://github.com/rooted-org/rooted/discussions/categories/q-a) |
+| An idea that isn't settled yet | [Discussions, Ideas](https://github.com/rooted-org/rooted/discussions/categories/ideas) |
+| Feedback on the beta | [Discussions, Beta feedback](https://github.com/rooted-org/rooted/discussions/categories/beta-feedback) |
+| Something you built | [Discussions, Show and tell](https://github.com/rooted-org/rooted/discussions/categories/show-and-tell) |
+| A bug with steps to reproduce it | [Issues](https://github.com/rooted-org/rooted/issues/new/choose) |
+| A security problem | [Private security advisory](https://github.com/rooted-org/rooted/security/advisories/new), never a public issue |
+
+More on what the beta means in the [beta program](./docs/guide/beta.md).
+
+
 ## Development
 
 ```sh

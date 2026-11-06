@@ -168,4 +168,4 @@ create(Router, {
 
 Read the source. The packages are small. Start in [`packages/components`](../../packages/components) for the component runtime, [`packages/router`](../../packages/router) for the router, and [`packages/store`](../../packages/store) for the store.
 
-If you find a gap or a bug, open an issue.
+If you're still stuck, ask in [Discussions, Q&A](https://github.com/rooted-org/rooted/discussions/categories/q-a). Answers mostly come from other users, and there's no promised response time. If you find a bug, [open an issue](https://github.com/rooted-org/rooted/issues/new/choose).

@@ -1,0 +1,41 @@
+title: '[Beta feedback] '
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for trying the beta. An honest account of building something real is the most useful feedback there is, including the bad parts.
+        See the [beta program](https://rooted-org.github.io/rooted/guide/beta) for what the beta means.
+
+        A bug with steps to reproduce it belongs in an [issue](https://github.com/rooted-org/rooted/issues/new/choose), so it can be tracked.
+
+  - type: input
+    id: packages
+    attributes:
+      label: Packages and versions
+      description: Which `@rooted/*` or `@rooted-adapters/*` packages you used, with exact versions.
+      placeholder: e.g. @rooted/components 1.0.0-beta.3, @rooted-adapters/netlify-hosting 1.0.0-beta.1
+
+  - type: textarea
+    id: built
+    attributes:
+      label: What did you build, or try to build?
+      description: Link it if it's public.
+    validations:
+      required: true
+
+  - type: textarea
+    id: stuck
+    attributes:
+      label: Where did you get stuck, and for how long?
+
+  - type: textarea
+    id: surprise
+    attributes:
+      label: Which API did something you didn't expect?
+      description: This one decides what changes before the API freezes.
+
+  - type: textarea
+    id: missing
+    attributes:
+      label: What did you have to write yourself that you think belongs in rooted?
+      description: This one decides what's missing for 1.0.

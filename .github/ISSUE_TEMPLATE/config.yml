@@ -1,0 +1,17 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask a question
+    url: https://github.com/rooted-org/rooted/discussions/categories/q-a
+    about: '"How do I..." questions go to Discussions. Answers mostly come from other users, there is no promised response time.'
+  - name: Share an idea
+    url: https://github.com/rooted-org/rooted/discussions/categories/ideas
+    about: For ideas that aren't settled yet. Use a feature request once you know what you want.
+  - name: Give beta feedback
+    url: https://github.com/rooted-org/rooted/discussions/categories/beta-feedback
+    about: What you built with the beta, and where it hurt.
+  - name: Report a security vulnerability
+    url: https://github.com/rooted-org/rooted/security/advisories/new
+    about: Please report security problems privately, never in a public issue.
+  - name: Documentation
+    url: https://rooted-org.github.io/rooted/
+    about: The guide and the FAQ.

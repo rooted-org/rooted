@@ -18,14 +18,16 @@ Be respectful and constructive. Harassment, discrimination, or dismissive commun
 
 ## Reporting bugs
 
-Open a [GitHub issue](https://github.com/rooted-org/rooted/issues/new) and include:
+Open a [GitHub issue](https://github.com/rooted-org/rooted/issues/new/choose) and include:
 
 - A minimal reproduction. A code snippet is fine; a small repo or StackBlitz is better.
 - Expected vs. actual behaviour.
 - Browser name and version, for runtime bugs.
 - Node version (`node -v`) and pnpm version (`pnpm -v`).
 
-Feature requests are welcome too. Describe the use case clearly so the maintainers can decide whether it fits.
+Feature requests are welcome too. Describe the use case clearly so the maintainers can decide whether it fits. If the idea isn't settled yet, start in [Discussions, Ideas](https://github.com/rooted-org/rooted/discussions/categories/ideas) instead.
+
+Questions go to [Discussions, Q&A](https://github.com/rooted-org/rooted/discussions/categories/q-a), not issues.
 
 ## Architectural decision records
 
@@ -35,4 +37,4 @@ ADRs are appended, not edited. If a later decision supersedes an earlier one, se
 
 ## When in doubt
 
-Ask. Open an issue or a draft PR with a question. Most of the project's weirdness has a reason. We'd rather explain it once than have a PR get stuck because nobody knew.
+Ask. Start a thread in [Discussions, Q&A](https://github.com/rooted-org/rooted/discussions/categories/q-a), or open a draft PR with a question. Most of the project's weirdness has a reason. We'd rather explain it once than have a PR get stuck because nobody knew.

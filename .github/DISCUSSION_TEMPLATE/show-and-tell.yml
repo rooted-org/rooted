@@ -1,0 +1,26 @@
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Built something with rooted? Show it off. Apps, adapters, components, experiments, half-finished things, all welcome.
+
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      description: Where people can see it. A live site, a repository, or both.
+      placeholder: https://
+
+  - type: textarea
+    id: what
+    attributes:
+      label: What is it?
+      description: What it does, and which rooted packages it uses.
+    validations:
+      required: true
+
+  - type: textarea
+    id: learned
+    attributes:
+      label: Anything worth sharing about building it?
+      description: Things that went well, things that hurt, things you'd do differently. This is optional, but it's the part other people learn the most from.

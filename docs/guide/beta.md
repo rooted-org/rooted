@@ -50,6 +50,7 @@ Feedback is the whole reason for the beta, and the most useful kind is an honest
 |---|---|
 | An experience report: what you built, where it hurt | [Discussions, Beta feedback](https://github.com/rooted-org/rooted/discussions/categories/beta-feedback) |
 | A "how do I..." question | [Discussions, Q&A](https://github.com/rooted-org/rooted/discussions/categories/q-a) |
+| An idea that isn't settled yet | [Discussions, Ideas](https://github.com/rooted-org/rooted/discussions/categories/ideas) |
 | Something you built and want to show | [Discussions, Show and tell](https://github.com/rooted-org/rooted/discussions/categories/show-and-tell) |
 | A bug with steps to reproduce it | [Issues](https://github.com/rooted-org/rooted/issues/new/choose) |
 | A security problem | [Private security advisory](https://github.com/rooted-org/rooted/security/advisories/new), never a public issue |
