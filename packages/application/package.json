@@ -51,7 +51,7 @@
 		"@vite-pwa/assets-generator": "^2.0.0",
 		"sonda": "^0.14.0",
 		"tinyglobby": "^0.2.17",
-		"vite": "^8.3.5",
+		"vite": "^8.3.6",
 		"vite-plugin-pwa": "^2.0.0"
 	},
 	"scripts": {

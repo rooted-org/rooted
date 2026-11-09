@@ -69,6 +69,6 @@
 		"@rooted/development": "workspace:*",
 		"@rooted/router": "workspace:^",
 		"@types/node": "^26.6.6",
-		"vite": "^8.3.5"
+		"vite": "^8.3.6"
 	}
 }
