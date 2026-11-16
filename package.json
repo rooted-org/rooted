@@ -38,7 +38,7 @@
 		"oxlint": "^1.93.0",
 		"tsdown": "^0.23.7",
 		"typescript": "^6.0.3",
-		"vite-plus": "^1.5.0",
+		"vite-plus": "^1.6.0",
 		"vitepress": "^1.6.4",
 		"vitest": "^5.1.0"
 	},
